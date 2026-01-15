@@ -1,9 +1,11 @@
 {
   "title": "そこ！編集点！",
+  "exePath": "そこ！編集点！.exe",
   "description": "ここに説明",
-  "thumbnail": "thumbnail.png",
-  "releaseUrl": "https://github.com/Ly-Euph/LOCAL_GameLauncher/releases/download/Game1_v1.0/game.zip"
+  "thumbnailFile": "thumbnail.png",
+  "zipUrl": "https://github.com/Ly-Euph/LOCAL_GameLauncher/releases/download/Game1_v1.0/game.zip"
 }
+
 
 
 
